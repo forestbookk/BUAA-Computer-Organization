@@ -1,0 +1,28 @@
+Command line:
+   drink_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  29191
+
+Sat Oct 07 13:55:44 2023
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5167.72 Meg
+
+ Total Signals          : 18
+ Total Nets             : 20
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 110
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 4695.86 Meg
+
+Sat Oct 07 14:41:37 2023
+

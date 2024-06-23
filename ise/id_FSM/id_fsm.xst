@@ -1,0 +1,5 @@
+set -tmpdir "D:/BUAA/practice/ise/id_FSM/xst/projnav.tmp"
+set -xsthdpdir "D:/BUAA/practice/ise/id_FSM/xst"
+elaborate
+-ifn id_fsm.prj
+-ifmt mixed

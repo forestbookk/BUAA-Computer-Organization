@@ -1,0 +1,5 @@
+set -tmpdir "D:/BUAA/practice/ise/Lemming4/xst/projnav.tmp"
+set -xsthdpdir "D:/BUAA/practice/ise/Lemming4/xst"
+elaborate
+-ifn Lemming4.prj
+-ifmt mixed

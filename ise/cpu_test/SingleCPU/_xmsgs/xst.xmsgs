@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1670" delta="new" >"D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\IFU.v" Line 34: Signal &lt;<arg fmt="%s" index="1">IMROM</arg>&gt; in initial block is partially initialized.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\ALU.v" Line 56: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\Datapath.v</arg>&quot; line <arg fmt="%d" index="2">68</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ifu</arg>&gt; of block &lt;<arg fmt="%s" index="4">IFU</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Datapath</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\Datapath.v</arg>&quot; line <arg fmt="%d" index="2">76</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">grf</arg>&gt; of block &lt;<arg fmt="%s" index="4">GRF</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Datapath</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\Datapath.v</arg>&quot; line <arg fmt="%d" index="2">89</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">npc</arg>&gt; of block &lt;<arg fmt="%s" index="4">NPC</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Datapath</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\Datapath.v</arg>&quot; line <arg fmt="%d" index="2">101</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ext</arg>&gt; of block &lt;<arg fmt="%s" index="4">EXT</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Datapath</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\Datapath.v</arg>&quot; line <arg fmt="%d" index="2">107</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">dm</arg>&gt; of block &lt;<arg fmt="%s" index="4">DM</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Datapath</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\Datapath.v</arg>&quot; line <arg fmt="%d" index="2">118</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ctrl</arg>&gt; of block &lt;<arg fmt="%s" index="4">Control</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Datapath</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\Datapath.v</arg>&quot; line <arg fmt="%d" index="2">134</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">alu</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALU</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">Datapath</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">D:\BUAA\practice\ise\cpu_test_verilog\SingleCPU\mips.v</arg>&quot; line <arg fmt="%d" index="2">27</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">cpu</arg>&gt; of block &lt;<arg fmt="%s" index="4">Datapath</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+</messages>
+

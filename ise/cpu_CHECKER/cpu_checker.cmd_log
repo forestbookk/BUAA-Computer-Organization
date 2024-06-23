@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/BUAA/practice/ise/cpu_CHECKER/cpu_checker.xst" -ofn "D:/BUAA/practice/ise/cpu_CHECKER/cpu_checker.syr" 

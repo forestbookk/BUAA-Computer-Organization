@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/BUAA/practice/ise/seq_det_mealy/seq_det_mealy_tb_isim_beh.exe" -prj "D:/BUAA/practice/ise/seq_det_mealy/seq_det_mealy_tb_beh.prj" "work.seq_det_mealy_tb" "work.glbl" 

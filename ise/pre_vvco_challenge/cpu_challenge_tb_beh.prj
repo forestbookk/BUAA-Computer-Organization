@@ -1,0 +1,3 @@
+verilog work "cpu_challenge.v"
+verilog work "cpu_challenge_tb.v"
+verilog work "D:/BUAA/software/ISE/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

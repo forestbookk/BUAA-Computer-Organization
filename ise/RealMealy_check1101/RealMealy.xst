@@ -1,0 +1,5 @@
+set -tmpdir "D:/BUAA/practice/ise/RealMealy_check1101/xst/projnav.tmp"
+set -xsthdpdir "D:/BUAA/practice/ise/RealMealy_check1101/xst"
+elaborate
+-ifn RealMealy.prj
+-ifmt mixed

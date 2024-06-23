@@ -1,0 +1,102 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/BUAA/practice/ise/P7-cpu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> Parameter xsthdpdir set to D:/BUAA/practice/ise/P7-cpu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "CU.v" in library work
+Compiling verilog include file "const.v"
+WARNING:HDLCompilers:301 - "CU.v" line 149 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "CU.v" line 197 Too many digits specified in hex constant
+Compiling verilog file "Stall.v" in library work
+Module <CU> compiled
+Compiling verilog file "RF.v" in library work
+Compiling verilog include file "const.v"
+Module <Stall> compiled
+WARNING:HDLCompilers:301 - "RF.v" line 47 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "RF.v" line 56 Too many digits specified in hex constant
+Compiling verilog file "PC.v" in library work
+Compiling verilog include file "const.v"
+Module <RF> compiled
+WARNING:HDLCompilers:301 - "PC.v" line 33 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "PC.v" line 40 Too many digits specified in hex constant
+Compiling verilog file "NPC.v" in library work
+Compiling verilog include file "const.v"
+Module <PC> compiled
+Compiling verilog file "MW_REG.v" in library work
+Compiling verilog include file "const.v"
+Module <NPC> compiled
+WARNING:HDLCompilers:301 - "MW_REG.v" line 56 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "MW_REG.v" line 69 Too many digits specified in hex constant
+Compiling verilog file "MDU.v" in library work
+Compiling verilog include file "const.v"
+Module <MW_REG> compiled
+WARNING:HDLCompilers:301 - "MDU.v" line 44 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "MDU.v" line 45 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "MDU.v" line 51 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "MDU.v" line 52 Too many digits specified in hex constant
+Compiling verilog file "FD_REG.v" in library work
+Module <MDU> compiled
+Compiling verilog file "EXT.v" in library work
+Compiling verilog include file "const.v"
+Module <FD_REG> compiled
+Compiling verilog file "EM_REG.v" in library work
+Module <EXT> compiled
+Compiling verilog file "DE_REG.v" in library work
+Module <EM_REG> compiled
+Compiling verilog file "CP0.v" in library work
+Compiling verilog include file "const.v"
+Module <DE_REG> compiled
+WARNING:HDLCompilers:301 - "CP0.v" line 59 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "CP0.v" line 64 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "CP0.v" line 65 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "CP0.v" line 66 Too many digits specified in hex constant
+Compiling verilog file "CMP.v" in library work
+Compiling verilog include file "const.v"
+Module <CP0> compiled
+Compiling verilog file "BE.v" in library work
+Compiling verilog include file "const.v"
+Module <CMP> compiled
+Compiling verilog file "ALU.v" in library work
+Compiling verilog include file "const.v"
+Module <BE> compiled
+WARNING:HDLCompilers:301 - "ALU.v" line 33 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "ALU.v" line 56 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "ALU.v" line 60 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "ALU.v" line 64 Too many digits specified in hex constant
+Compiling verilog file "CPU.v" in library work
+Compiling verilog include file "const.v"
+Module <ALU> compiled
+WARNING:HDLCompilers:301 - "CPU.v" line 158 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "CPU.v" line 173 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "CPU.v" line 333 Too many digits specified in hex constant
+Module <CPU> compiled
+No errors in compilation
+Analysis of file <"CPU.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> 
+
+Total memory usage is 4491700 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   24 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

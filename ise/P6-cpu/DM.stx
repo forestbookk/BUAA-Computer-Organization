@@ -1,0 +1,34 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/BUAA/practice/ise/P5-cpu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to D:/BUAA/practice/ise/P5-cpu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "DM.v" in library work
+Compiling verilog include file "const.v"
+WARNING:HDLCompilers:301 - "DM.v" line 100 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "DM.v" line 109 Too many digits specified in hex constant
+ERROR:HDLCompilers:28 - "DM.v" line 112 'DMWrEn' has not been declared
+Module <DM> compiled
+Analysis of file <"DM.prj"> failed.
+--> 
+
+Total memory usage is 4483520 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    3 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

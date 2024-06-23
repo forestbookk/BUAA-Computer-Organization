@@ -1,0 +1,93 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/BUAA/practice/ise/P1_L2_intcheck/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> Parameter xsthdpdir set to D:/BUAA/practice/ise/P1_L2_intcheck/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "intcheck.v" in library work
+WARNING:HDLCompilers:299 - "intcheck.v" line 50 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 54 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 59 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 61 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 64 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 66 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 68 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 70 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 73 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 75 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 77 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 79 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 82 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 84 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 86 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 88 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 91 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 93 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 97 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 99 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 101 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 104 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 107 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 109 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 111 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 113 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 115 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 117 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 120 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 123 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 125 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 127 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 129 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 131 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 133 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 136 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 138 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 140 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 142 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 144 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 147 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 150 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 152 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 156 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 158 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 161 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 164 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 168 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 170 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 173 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 175 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 177 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 179 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 181 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 183 Too many digits specified in binary constant
+WARNING:HDLCompilers:299 - "intcheck.v" line 186 Too many digits specified in binary constant
+Module <intcheck> compiled
+No errors in compilation
+Analysis of file <"intcheck.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.21 secs
+ 
+--> 
+
+Total memory usage is 4482160 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   57 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/BUAA/practice/ise/P1_L2_intcheck/intcheck_tb_isim_beh.exe" -prj "D:/BUAA/practice/ise/P1_L2_intcheck/intcheck_tb_beh.prj" "work.intcheck_tb" "work.glbl" 

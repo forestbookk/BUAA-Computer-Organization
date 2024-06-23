@@ -1,0 +1,5 @@
+set -tmpdir "D:/BUAA/practice/ise/pre_vvco_challenge/xst/projnav.tmp"
+set -xsthdpdir "D:/BUAA/practice/ise/pre_vvco_challenge/xst"
+elaborate
+-ifn cpu_challenge.prj
+-ifmt mixed

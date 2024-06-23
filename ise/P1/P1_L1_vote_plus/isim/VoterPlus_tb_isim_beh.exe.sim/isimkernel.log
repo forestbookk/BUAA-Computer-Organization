@@ -1,0 +1,28 @@
+Command line:
+   VoterPlus_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  23821
+
+Sat Oct 07 15:42:47 2023
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5167.82 Meg
+
+ Total Signals          : 60
+ Total Nets             : 168
+ Total Signal Drivers   : 52
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 56
+ Total Traceable Variables  : 27
+ Total Scalar Nets and Variables : 340
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 4695.96 Meg
+
+Sat Oct 07 16:01:15 2023
+

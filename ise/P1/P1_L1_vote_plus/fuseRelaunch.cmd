@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/BUAA/practice/ise/P1_L1_vote_plus/VoterPlus_tb_isim_beh.exe" -prj "D:/BUAA/practice/ise/P1_L1_vote_plus/VoterPlus_tb_beh.prj" "work.VoterPlus_tb" "work.glbl" 

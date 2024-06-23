@@ -1,0 +1,3 @@
+verilog isim_temp "cpu_challenge.v"
+verilog isim_temp "cpu_challenge_tb.v"
+verilog isim_temp "D:/BUAA/software/ISE/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

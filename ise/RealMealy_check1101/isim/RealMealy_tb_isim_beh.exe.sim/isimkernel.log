@@ -1,0 +1,28 @@
+Command line:
+   RealMealy_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49185
+
+Mon Oct 16 14:55:33 2023
+
+
+ Elaboration Time: 0 sec
+
+ Current Memory Usage: 5167.67 Meg
+
+ Total Signals          : 19
+ Total Nets             : 23
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 17
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 113
+
+ Total Simulation Time: 0.015625 sec
+
+ Current Memory Usage: 5167.67 Meg
+
+Mon Oct 16 14:55:55 2023
+

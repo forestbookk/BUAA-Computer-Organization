@@ -1,0 +1,5 @@
+set -tmpdir "D:/BUAA/practice/ise/P1_L2_intcheck/xst/projnav.tmp"
+set -xsthdpdir "D:/BUAA/practice/ise/P1_L2_intcheck/xst"
+elaborate
+-ifn intcheck.prj
+-ifmt mixed
