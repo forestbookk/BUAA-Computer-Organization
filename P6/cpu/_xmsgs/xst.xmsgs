@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;CU.v&quot; line 121 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;RF.v&quot; line 47 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;RF.v&quot; line 56 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;PC.v&quot; line 32 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;PC.v&quot; line 39 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;MDU.v&quot; line 42 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;MDU.v&quot; line 43 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;MDU.v&quot; line 49 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;MDU.v&quot; line 50 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;ALU.v&quot; line 49 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;ALU.v&quot; line 53 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;ALU.v&quot; line 57 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;mips.v&quot; line 123 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="301" delta="old" ><arg fmt="%s" index="1">&quot;mips.v&quot; line 137 </arg>Too many digits specified in hex constant
+</msg>
+
+<msg type="warning" file="Xst" num="863" delta="old" >&quot;<arg fmt="%s" index="1">CU.v</arg>&quot; line <arg fmt="%d" index="2">50</arg>: Name conflict (<arg fmt="%s" index="3">&lt;Jr&gt; and &lt;jr&gt;, renaming Jr as jr_rnm0</arg>).
+</msg>
+
+<msg type="warning" file="Xst" num="863" delta="old" >&quot;<arg fmt="%s" index="1">CU.v</arg>&quot; line <arg fmt="%d" index="2">42</arg>: Name conflict (<arg fmt="%s" index="3">&lt;Lui&gt; and &lt;lui&gt;, renaming Lui as lui_rnm0</arg>).
+</msg>
+
+<msg type="error" file="Xst" num="870" delta="new" >&quot;<arg fmt="%s" index="1">MDU.v</arg>&quot; line <arg fmt="%d" index="2">84</arg>: Can not simplify operator <arg fmt="%s" index="3">MOD</arg>.
+</msg>
+
+</messages>
+

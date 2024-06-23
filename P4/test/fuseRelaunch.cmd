@@ -1,0 +1,1 @@
+-nodebug -prj "C:\CO\P4\cpu\mips.prj" -o "mips.exe" "C:\CO\P4\cpu\mips_tb" 

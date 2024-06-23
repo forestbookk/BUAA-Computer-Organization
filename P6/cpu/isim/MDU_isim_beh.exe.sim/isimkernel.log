@@ -1,0 +1,28 @@
+Command line:
+   MDU_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54013
+
+Sun Nov 19 23:11:56 2023
+
+
+ Elaboration Time: 0 sec
+
+ Current Memory Usage: 5169.18 Meg
+
+ Total Signals          : 23
+ Total Nets             : 213
+ Total Signal Drivers   : 9
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 423
+
+ Total Simulation Time: 0 sec
+
+ Current Memory Usage: 5169.18 Meg
+
+Sun Nov 19 23:11:59 2023
+

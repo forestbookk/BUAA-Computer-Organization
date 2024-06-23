@@ -1,0 +1,1 @@
+-nodebug -prj "C:\Users\shael\CO\P6\cpu\mips.prj" -o "mips.exe" "mips_txt" 

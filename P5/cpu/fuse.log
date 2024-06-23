@@ -1,0 +1,48 @@
+Running: D:\BUAA\software\ISE\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -nodebug -prj C:\Users\shael\CO\P5\cpu\mips.prj -o mips.exe mips_txt 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/CU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/Stall.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/RF.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/PC.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/NPC.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/MW_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/FD_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/EXT.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/EM_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/DE_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/CMP.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/BE.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/ALU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P5/cpu/mips.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P5/cpu/mips.v" Line 188: Port RFWrEn is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P5/cpu/mips.v" Line 258: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P5/cpu/mips.v" Line 298: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P5/cpu/mips.v" Line 352: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P5/cpu/Stall.v" Line 34: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P5/cpu/Stall.v" Line 49: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P5/cpu/Stall.v" Line 64: Port NPCOp is not connected to this instance
+Completed static elaboration
+Compiling module CU
+Compiling module Stall
+Compiling module PC
+Compiling module FD_REG
+Compiling module NPC
+Compiling module RF
+Compiling module EXT
+Compiling module CMP
+Compiling module DE_REG
+Compiling module ALU
+Compiling module EM_REG
+Compiling module BE
+Compiling module MW_REG
+Compiling module mips
+Compiling module mips_txt
+Time Resolution for simulation is 1ps.
+Compiled 15 Verilog Units
+Built simulation executable mips.exe
+Fuse Memory Usage: 32420 KB
+Fuse CPU Usage: 187 ms

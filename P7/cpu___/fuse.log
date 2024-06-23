@@ -1,0 +1,62 @@
+Running: D:\BUAA\software\ISE\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/shael/CO/P7/cpu/mips_txt_isim_beh.exe -prj C:/Users/shael/CO/P7/cpu/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/CU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/Stall.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/RF.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/PC.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/NPC.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/MW_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/MDU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/FD_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/EXT.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/EM_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/DE_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/CP0.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/CMP.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/BE.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/ALU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/P7_standard_timer_2019.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/CPU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/Bridge.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/mips.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P7/cpu/mips_tb.v" into library work
+Analyzing Verilog file "D:/BUAA/software/ISE/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P7/cpu/CPU.v" Line 274: Port RFWrEn is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P7/cpu/CPU.v" Line 364: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P7/cpu/CPU.v" Line 453: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P7/cpu/CPU.v" Line 541: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P7/cpu/Stall.v" Line 38: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P7/cpu/Stall.v" Line 59: Port NPCOp is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/shael/CO/P7/cpu/Stall.v" Line 80: Port NPCOp is not connected to this instance
+Completed static elaboration
+Compiling module CU
+Compiling module Stall
+Compiling module PC
+Compiling module FD_REG
+Compiling module NPC
+Compiling module RF
+Compiling module EXT
+Compiling module CMP
+Compiling module DE_REG
+Compiling module ALU
+Compiling module MDU
+Compiling module EM_REG
+Compiling module BE
+Compiling module CP0
+Compiling module MW_REG
+Compiling module CPU
+Compiling module Bridge
+Compiling module TC
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 21 Verilog Units
+Built simulation executable C:/Users/shael/CO/P7/cpu/mips_txt_isim_beh.exe
+Fuse Memory Usage: 37096 KB
+Fuse CPU Usage: 343 ms

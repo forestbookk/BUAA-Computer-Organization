@@ -1,0 +1,37 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/BUAA/practice/ise/P4-cpu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to D:/BUAA/practice/ise/P4-cpu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "RF.v" in library work
+Compiling verilog include file "const.v"
+WARNING:HDLCompilers:301 - "RF.v" line 42 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "RF.v" line 46 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "RF.v" line 53 Too many digits specified in hex constant
+ERROR:HDLCompilers:28 - "RF.v" line 56 'RegAddr' has not been declared
+ERROR:HDLCompilers:28 - "RF.v" line 62 'rs' has not been declared
+ERROR:HDLCompilers:28 - "RF.v" line 63 'rt' has not been declared
+Module <RF> compiled
+Analysis of file <"RF.prj"> failed.
+--> 
+
+Total memory usage is 4483520 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    4 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,43 @@
+Running: D:\BUAA\software\ISE\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -nodebug -prj C:\Users\shael\CO\P6\cpu\mips.prj -o mips.exe mips_txt 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/CU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/Stall.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/RF.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/PC.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/NPC.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/MW_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/MDU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/FD_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/EXT.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/EM_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/DE_REG.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/CMP.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/BE.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/ALU.v" into library work
+Analyzing Verilog file "C:/Users/shael/CO/P6/cpu/mips.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module CU
+Compiling module Stall
+Compiling module PC
+Compiling module FD_REG
+Compiling module NPC
+Compiling module RF
+Compiling module EXT
+Compiling module CMP
+Compiling module DE_REG
+Compiling module ALU
+Compiling module MDU
+Compiling module EM_REG
+Compiling module BE
+Compiling module MW_REG
+Compiling module mips
+Compiling module mips_txt
+Time Resolution for simulation is 1ps.
+Compiled 16 Verilog Units
+Built simulation executable mips.exe
+Fuse Memory Usage: 34280 KB
+Fuse CPU Usage: 171 ms

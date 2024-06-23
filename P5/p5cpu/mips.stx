@@ -1,0 +1,76 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/shael/CO/P5/cpu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/shael/CO/P5/cpu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "CU.v" in library work
+Compiling verilog include file "const.v"
+ERROR:HDLCompilers:28 - "CU.v" line 48 'OP' has not been declared
+ERROR:HDLCompilers:28 - "CU.v" line 48 'FC' has not been declared
+ERROR:HDLCompilers:28 - "CU.v" line 49 'OP' has not been declared
+ERROR:HDLCompilers:28 - "CU.v" line 49 'FC' has not been declared
+Compiling verilog file "Stall.v" in library work
+Module <CU> compiled
+Compiling verilog file "RF.v" in library work
+Compiling verilog include file "const.v"
+Module <Stall> compiled
+WARNING:HDLCompilers:301 - "RF.v" line 47 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "RF.v" line 56 Too many digits specified in hex constant
+Compiling verilog file "NPC.v" in library work
+Compiling verilog include file "const.v"
+Module <RF> compiled
+Compiling verilog file "MW_REG.v" in library work
+Module <NPC> compiled
+Compiling verilog file "IFU.v" in library work
+Compiling verilog include file "const.v"
+Module <MW_REG> compiled
+Compiling verilog file "FD_REG.v" in library work
+Module <IFU> compiled
+Compiling verilog file "EXT.v" in library work
+Compiling verilog include file "const.v"
+Module <FD_REG> compiled
+Compiling verilog file "EM_REG.v" in library work
+Module <EXT> compiled
+Compiling verilog file "DM.v" in library work
+Compiling verilog include file "const.v"
+Module <EM_REG> compiled
+WARNING:HDLCompilers:301 - "DM.v" line 100 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "DM.v" line 109 Too many digits specified in hex constant
+Compiling verilog file "DE_REG.v" in library work
+Module <DM> compiled
+Compiling verilog file "CMP.v" in library work
+Compiling verilog include file "const.v"
+Module <DE_REG> compiled
+Compiling verilog file "ALU.v" in library work
+Compiling verilog include file "const.v"
+Module <CMP> compiled
+WARNING:HDLCompilers:301 - "ALU.v" line 45 Too many digits specified in hex constant
+Compiling verilog file "mips.v" in library work
+Compiling verilog include file "const.v"
+Module <ALU> compiled
+WARNING:HDLCompilers:301 - "mips.v" line 94 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "mips.v" line 105 Too many digits specified in hex constant
+Module <mips> compiled
+Analysis of file <"mips.prj"> failed.
+--> 
+
+Total memory usage is 4483568 kilobytes
+
+Number of errors   :    4 (   0 filtered)
+Number of warnings :    8 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

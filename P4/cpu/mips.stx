@@ -1,0 +1,67 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/shael/CO/P4/cpu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/shael/CO/P4/cpu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "RF.v" in library work
+Compiling verilog include file "const.v"
+WARNING:HDLCompilers:301 - "RF.v" line 48 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "RF.v" line 54 Too many digits specified in hex constant
+Compiling verilog file "NPC.v" in library work
+Compiling verilog include file "const.v"
+Module <RF> compiled
+Compiling verilog file "IFU.v" in library work
+Compiling verilog include file "const.v"
+Module <NPC> compiled
+Compiling verilog file "EXT.v" in library work
+Module <IFU> compiled
+Compiling verilog file "DM.v" in library work
+Compiling verilog include file "const.v"
+Module <EXT> compiled
+WARNING:HDLCompilers:301 - "DM.v" line 101 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "DM.v" line 108 Too many digits specified in hex constant
+Compiling verilog file "CU.v" in library work
+Compiling verilog include file "const.v"
+Module <DM> compiled
+Compiling verilog file "ALU.v" in library work
+Compiling verilog include file "const.v"
+Module <CU> compiled
+WARNING:HDLCompilers:301 - "ALU.v" line 37 Too many digits specified in hex constant
+Compiling verilog file "mips.v" in library work
+Compiling verilog include file "const.v"
+Module <ALU> compiled
+WARNING:HDLCompilers:301 - "mips.v" line 90 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "mips.v" line 96 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "mips.v" line 100 Too many digits specified in hex constant
+WARNING:HDLCompilers:301 - "mips.v" line 105 Too many digits specified in hex constant
+Module <mips> compiled
+No errors in compilation
+Analysis of file <"mips.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.22 secs
+ 
+--> 
+
+Total memory usage is 4483508 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   10 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

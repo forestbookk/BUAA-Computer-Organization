@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/shael/CO/P5/cpu/mips.v" Line 188: Port <arg fmt="%s" index="1">RFWrEn</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/shael/CO/P5/cpu/mips.v" Line 258: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/shael/CO/P5/cpu/mips.v" Line 298: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/shael/CO/P5/cpu/mips.v" Line 352: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/shael/CO/P5/cpu/Stall.v" Line 34: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/shael/CO/P5/cpu/Stall.v" Line 49: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/shael/CO/P5/cpu/Stall.v" Line 64: Port <arg fmt="%s" index="1">NPCOp</arg> is not connected to this instance
+</msg>
+
+</messages>
+
