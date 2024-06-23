@@ -1,0 +1,60 @@
+Running: D:\BUAA\software\ISE\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/BUAA/STAR/CO_LAB/study/FlowCpu/mips_tb_isim_beh.exe -prj D:/BUAA/STAR/CO_LAB/study/FlowCpu/mips_tb_beh.prj work.mips_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Control.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/M_DM.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/MEM_WB_REG.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/IF_ID_REG.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/ID_EX_REG.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/F_IFU.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/E_ALU.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/EX_MEM_REG.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/D_NPC.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/D_GRF.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/D_EXT.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/D_CMP.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/mips.v" into library work
+Analyzing Verilog file "D:/BUAA/STAR/CO_LAB/study/FlowCpu/mips_tb.v" into library work
+Analyzing Verilog file "D:/BUAA/software/ISE/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 65: Port RegWrite is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 117: Port PC4 is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 169: Port ExtendSign is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 228: Port ExtendSign is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 300: Port ExtendSign is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 31: Port ExtendSign is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 52: Port ExtendSign is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 69: Port ExtendSign is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 31: Port ExtendSign is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 36: Port ExtendSign is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 43: Port ExtendSign is not connected to this instance
+Completed static elaboration
+Compiling module F_IFU
+Compiling module IF_ID_REG
+Compiling module Control
+Compiling module D_GRF
+Compiling module D_CMP
+Compiling module D_NPC
+Compiling module D_EXT
+Compiling module ID_EX_REG
+Compiling module E_ALU
+Compiling module EX_MEM_REG
+Compiling module M_DM
+Compiling module MEM_WB_REG
+Compiling module Stall
+Compiling module Forward
+Compiling module DataPath
+Compiling module mips
+Compiling module mips_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 18 Verilog Units
+Built simulation executable D:/BUAA/STAR/CO_LAB/study/FlowCpu/mips_tb_isim_beh.exe
+Fuse Memory Usage: 32248 KB
+Fuse CPU Usage: 203 ms

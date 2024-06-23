@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 306: Port <arg fmt="%s" index="1">RegWrite</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 352: Port <arg fmt="%s" index="1">PC4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 403: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 479: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 591: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 32: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 58: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 82: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 31: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 36: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 45: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="error" file="Simulator" num="904" delta="unknown" >Unable to remove previous simulation file <arg fmt="%s" index="1">isim/mips_txt_isim_beh.exe.sim/mips_txt_isim_beh.exe</arg>. Please check if you have another instance of this simulation running on your system, terminate it and then recompile your design. System Error Message: <arg fmt="%s" index="2">boost::filesystem::remove: ﾾￜﾾ￸ﾷￃￎￊﾡﾣ: &quot;isim\mips_txt_isim_beh.exe.sim\mips_txt_isim_beh.exe&quot;</arg>
+</msg>
+
+<msg type="error" file="Simulator" num="861" delta="unknown" >Failed to link the design
+</msg>
+
+</messages>
+

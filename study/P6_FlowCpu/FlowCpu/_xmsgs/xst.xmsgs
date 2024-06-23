@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 237: Port <arg fmt="%s" index="1">RegWrite</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 282: Port <arg fmt="%s" index="1">PC4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 326: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 394: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 476: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 248: Assignment to <arg fmt="%s" index="1">D_rd</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\D_CMP.v" Line 28: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 332: Assignment to <arg fmt="%s" index="1">E_rd</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\E_MDU.v" Line 92: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\E_MDU.v" Line 95: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 367: Assignment to <arg fmt="%s" index="1">E_HI</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 368: Assignment to <arg fmt="%s" index="1">E_LO</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 396: Assignment to <arg fmt="%s" index="1">M_MemWrite</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 397: Assignment to <arg fmt="%s" index="1">M_rs</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 399: Assignment to <arg fmt="%s" index="1">M_rd</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v" Line 450: Assignment to <arg fmt="%s" index="1">WB_jump</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v" Line 32: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v" Line 56: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v" Line 74: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v" Line 38: Assignment to <arg fmt="%s" index="1">D_jal</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v" Line 61: Assignment to <arg fmt="%s" index="1">E_store</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v" Line 31: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v" Line 36: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v" Line 45: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v" Line 41: Assignment to <arg fmt="%s" index="1">M_MDU_c</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v" Line 51: Assignment to <arg fmt="%s" index="1">W_MDU_c</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">MemToReg</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">RegDest</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">RegWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">load</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">cal_r</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">cal_i</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">jal</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">237</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_f</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">282</arg>: Output port &lt;<arg fmt="%s" index="3">PC4</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">d_npc</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">load</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">cal_r</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">cal_i</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">jal</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">326</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_f</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">356</arg>: Output port &lt;<arg fmt="%s" index="3">HI</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">e_mdu</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">356</arg>: Output port &lt;<arg fmt="%s" index="3">LO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">e_mdu</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">rs</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">load</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">cal_r</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">cal_i</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">jal</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">394</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_f</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">435</arg>: Output port &lt;<arg fmt="%s" index="3">WB_jump</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">mem_wb_reg</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">rs</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">rt</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">load</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">cal_r</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">cal_i</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">jal</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\DataPath.v</arg>&quot; line <arg fmt="%s" index="2">476</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_f</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">WB_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">MDUop&lt;1&gt;</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">MDUop&lt;0&gt;</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">PC</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">jump</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">MemToReg</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">RegDest</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">RegWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">32</arg>: Output port &lt;<arg fmt="%s" index="3">jal</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">D_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">MemToReg</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">rs</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">rt</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">jal</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">MemToReg</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">rs</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">rt</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">cal_r</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">cal_i</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">jal</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Stall.v</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_f</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Stall_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">MemToReg</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">RegDest</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">rs</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">rt</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">RegWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">load</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">cal_r</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">cal_i</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">31</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_f</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">E_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">MemToReg</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">RegDest</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">rs</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">rt</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">RegWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">load</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">36</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">M_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">MemToReg</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">RegDest</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">ALUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">imm16</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">imm26</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">rs</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">rt</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">rd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">MDUop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">BEop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">DMop</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">ExtendSign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">Jal_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">RegWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">MemWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">RegSrc</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">Beq_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">Bne_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">Jr_sign</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">start</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">HIWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">LOWrite</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">HIRead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">LORead</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">store</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">jr</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">branch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">D:\BUAA\STAR\CO_LAB\study\P6_FlowCpu\FlowCpu\Forward.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">MDU_t</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">W_Forward_Control</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">EX_Instr_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">id_ex_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">EX_Instr_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">id_ex_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">EX_Instr_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">id_ex_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">EX_Instr_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">id_ex_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">EX_Instr_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">id_ex_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">MEM_Instr_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ex_mem_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">WB_Instr_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mem_wb_reg</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">EX_imm32_16</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">ID_EX_REG</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">15 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;EX_imm32_17&gt; &lt;EX_imm32_18&gt; &lt;EX_imm32_19&gt; &lt;EX_imm32_20&gt; &lt;EX_imm32_21&gt; &lt;EX_imm32_22&gt; &lt;EX_imm32_23&gt; &lt;EX_imm32_24&gt; &lt;EX_imm32_25&gt; &lt;EX_imm32_26&gt; &lt;EX_imm32_27&gt; &lt;EX_imm32_28&gt; &lt;EX_imm32_29&gt; &lt;EX_imm32_30&gt; &lt;EX_imm32_31&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">EX_jump</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">ID_EX_REG</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1023</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1022</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1021</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1020</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1019</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1018</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1017</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1016</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1015</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1014</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1013</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1012</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1011</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1010</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1009</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1008</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1007</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1006</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1005</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1004</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1003</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1002</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1001</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_1000</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_999</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_998</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_997</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_996</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_995</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_994</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_993</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">rf_31_992</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">D_GRF</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="3002" delta="old" >This design contains one or more registers/latches that are directly
+incompatible with the <arg fmt="%s" index="1">Spartan6</arg> architecture. The two primary causes of this is
+either a register or latch described with both an asynchronous set and
+asynchronous reset, or a register or latch described with an asynchronous
+set or reset which however has an initialization value of the opposite 
+polarity (i.e. asynchronous reset with an initialization value of 1).
+ While this circuit can be built, it creates a sub-optimal implementation
+in terms of area, power and performance. For a more optimal implementation
+Xilinx highly recommends one of the following:
+
+       1) Remove either the set or reset from all registers and latches
+          if not needed for required functionality
+       2) Modify the code in order to produce a synchronous set
+          and/or reset (both is preferred)
+       3) Ensure all registers have the same initialization value as the
+          described asynchronous set or reset polarity
+       4) Use the -async_to_sync option to transform the asynchronous
+          set/reset to synchronous operation
+          (timing simulation highly recommended when using this option)
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_Instr_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_Instr_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_Instr_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_Instr_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_Instr_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_jump</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/ex_mem_reg/MEM_Instr_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_jump</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/mem_wb_reg/WB_Instr_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/forward/E_Forward_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/forward/E_Forward_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/forward/M_Forward_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/forward/M_Forward_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/forward/W_Forward_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/forward/W_Forward_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/WB_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/WB_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/M_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/M_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/D_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/D_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/stall/D_Stall_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/stall/D_Stall_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/stall/E_Stall_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/stall/E_Stall_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/stall/M_Stall_Control/MDUop_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cpu/stall/M_Stall_Control/MDUop_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">mips</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_11&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_12</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_12&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_13</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_13&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_14</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_14&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_15</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_15&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_3&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_4&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">cpu/id_ex_reg/EX_imm32_5</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">mips</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;cpu/id_ex_reg/EX_Instr_5&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>

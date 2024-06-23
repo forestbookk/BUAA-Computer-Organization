@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 65: Port <arg fmt="%s" index="1">RegWrite</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 117: Port <arg fmt="%s" index="1">PC4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 169: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 228: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/DataPath.v" Line 300: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 31: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 52: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Stall.v" Line 69: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 31: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 36: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/BUAA/STAR/CO_LAB/study/FlowCpu/Forward.v" Line 43: Port <arg fmt="%s" index="1">ExtendSign</arg> is not connected to this instance
+</msg>
+
+</messages>
+

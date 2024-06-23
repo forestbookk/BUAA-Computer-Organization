@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/BUAA/STAR/CO_LAB/study/P6_FlowCpu/FlowCpu/mips.xst" -ofn "D:/BUAA/STAR/CO_LAB/study/P6_FlowCpu/FlowCpu/mips.syr" 
+xst -intstyle ise -ifn "D:/BUAA/STAR/CO_LAB/study/P6_FlowCpu/FlowCpu/mips.xst" -ofn "D:/BUAA/STAR/CO_LAB/study/P6_FlowCpu/FlowCpu/mips.syr" 
+xst -intstyle ise -ifn "D:/BUAA/STAR/CO_LAB/study/P6_FlowCpu/FlowCpu/mips.xst" -ofn "D:/BUAA/STAR/CO_LAB/study/P6_FlowCpu/FlowCpu/mips.syr" 
